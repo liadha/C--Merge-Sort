@@ -22,7 +22,7 @@ namespace ConsoleApp1
             if (arr.Length == 1)
                 return;
             int mid = arr.Length / 2;
-            // create 2 sub array from the main array i get
+            // create 2 sub array from the main array 
             int[] leftArr = new int [mid];
             int[] rightArr = new int [arr.Length-mid];
             int i ;
@@ -49,7 +49,7 @@ namespace ConsoleApp1
                     arr[mergeIndex] = leftArr[leftIndex];
                     leftIndex++;
                 }
-                ////if the value in the RightArr is smaller than the value in the LeftArr i will copy it
+                //if the value in the RightArr is smaller than the value in the LeftArr i will copy it
                 else
                 {
                     arr[mergeIndex] = rightArr[rightIndex];
