@@ -1,0 +1,8 @@
+C:\C#-Merge sort\Merge-sort\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\C#-Merge sort\Merge-sort\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\C#-Merge sort\Merge-sort\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\C#-Merge sort\Merge-sort\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\C#-Merge sort\Merge-sort\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\C#-Merge sort\Merge-sort\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\C#-Merge sort\Merge-sort\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\C#-Merge sort\Merge-sort\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
